@@ -1,5 +1,5 @@
 # Clapy
-Clapy is a vibe coded open-source minimal Python3 script with minimal dependencies to use Claude AI models via terminal (API key is required). The project has been built with the help of Claude AI.
+Clapy is a vibe coded open-source minimal Python3 script to use Claude AI models via terminal (API key is required). The project has been built with the help of Claude AI.
 
 ## Usage
 ```shell
