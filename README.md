@@ -22,6 +22,4 @@ It'll be much nicer.
 ## NOTES
 The script has been tested and is currently my CLI tool of choice to interact with Claude models.
 
-<br>
-
-Bug reports and contributions are always welcome.
+Bug reports and contributions are always welcome!
